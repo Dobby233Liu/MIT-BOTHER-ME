@@ -48,7 +48,7 @@ We are [CFPA Team](https://cfpa.team/) (neither China Fire Protection Associatio
 
 ## License
 
-[![Check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/CFPAOrg/MIT-DO-NOT-BOTHER-ME/blob/master/LICENSE)
+[![Check it out](https://img.shields.io/badge/CheckItOut-LICENSE-000000.svg?longCache=true)](https://github.com/CFPAOrg/MIT-DO-NOT-BOTHER-ME/blob/master/LICENSE)
 
 ## Credits
 
