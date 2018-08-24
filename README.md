@@ -44,7 +44,7 @@ We are [CFPA Team](https://cfpa.team/) (neither China Fire Protection Associatio
 
 
 ### Sounds great! I will love to help you!
-- Wanna help? Send a pull request, or use it in your project. We will be happy to provide help! (。・∀・)ノ
+- Wanna help? Send a pull request, or use it in your project. We will be happy to provide help (。・∀・)ノ!
 
 ## License
 
