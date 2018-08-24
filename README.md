@@ -47,7 +47,7 @@ We are [CFPA Team](https://cfpa.team/) (neither China Fire Protection Associatio
 
 [Go and fork it!](https://github.com/CFPAOrg/MIT-DO-NOT-BOTHER-ME/fork)
 
-Also, if you need help? Send a pull request, or use it in your project. We will be happy to provide help (。・∀・)ノ!
+Also, if you need help, send a pull request, or use it in your project, and we will be happy to provide help (。・∀・)ノ!
 
 ## License
 
