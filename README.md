@@ -52,4 +52,4 @@ We are [CFPA Team](https://cfpa.team/) (neither China Fire Protection Associatio
 
 ## Credits
 
-[![For The Badge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![shields.io](https://img.shields.io/badge/badge-shields.io-green.svg)](https://shields.io)
